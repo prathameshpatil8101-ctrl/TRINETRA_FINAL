@@ -1,0 +1,10 @@
+{
+  "description": "An AI-powered underwater intelligence platform that analyzes sonar images, detects anomalies, and supports human verification for maritime operations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

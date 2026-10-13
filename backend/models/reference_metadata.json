@@ -1,0 +1,5202 @@
+[
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570162.979_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570162.979_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      236,
+      3,
+      424,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569773.860_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569773.860_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      280,
+      3,
+      476,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569412.790_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569412.790_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      375,
+      16,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569429.789_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569429.789_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      372,
+      5,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569486.800_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569486.800_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      337,
+      7,
+      639,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569753.849_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569753.849_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      5,
+      496,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569513.810_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569513.810_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      7,
+      336,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570134.979_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570134.979_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      2,
+      371,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569652.830_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569652.830_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      348,
+      5,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569788.859_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569788.859_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      304,
+      6,
+      526,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569566.819_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569566.819_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      277,
+      10,
+      639,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570207.989_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570207.989_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      259,
+      2,
+      457,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569693.840_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569693.840_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      202,
+      7,
+      458,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569848.869_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569848.869_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      378,
+      17,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570048.959_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570048.959_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      301,
+      382,
+      430,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569766.860_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569766.860_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      269,
+      2,
+      486,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570147.980_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570147.980_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      235,
+      3,
+      453,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569493.800_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569493.800_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      1,
+      306,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570117.979_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570117.979_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      5,
+      356,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569643.830_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569643.830_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      337,
+      5,
+      639,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569723.849_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569723.849_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      211,
+      6,
+      472,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570185.990_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570185.990_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      257,
+      3,
+      454,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569649.830_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569649.830_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      7,
+      311,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569740.850_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569740.850_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      15,
+      497,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569852.869_x4000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569852.869_x4000.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      137,
+      296,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569750.850_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569750.850_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      242,
+      3,
+      481,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569848.869_x4000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569848.869_x4000.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      17,
+      263,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569816.869_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569816.869_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      385,
+      44,
+      567,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569659.830_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569659.830_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      180,
+      4,
+      404,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570157.979_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570157.979_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      254,
+      8,
+      446,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569856.870_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569856.870_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      474,
+      165,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569437.790_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569437.790_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      345,
+      12,
+      639,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570190.990_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570190.990_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      253,
+      3,
+      467,
+      499
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569763.849_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569763.849_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      253,
+      3,
+      470,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569427.789_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569427.789_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      9,
+      352,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569661.830_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569661.830_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      153,
+      3,
+      422,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569838.869_x4000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569838.869_x4000.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      20,
+      258,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570106.969_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570106.969_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      10,
+      373,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569495.800_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569495.800_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      345,
+      7,
+      639,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569699.840_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569699.840_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      217,
+      2,
+      501,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569497.799_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569497.799_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      5,
+      316,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569604.820_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569604.820_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      320,
+      1,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570164.979_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570164.979_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      232,
+      1,
+      436,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569567.809_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569567.809_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      159,
+      4,
+      433,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569739.850_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569739.850_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      231,
+      2,
+      489,
+      486
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570184.990_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570184.990_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      246,
+      3,
+      442,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569560.809_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569560.809_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      159,
+      6,
+      420,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569544.809_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569544.809_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      388,
+      20,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570124.979_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570124.979_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      10,
+      337,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569526.810_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569526.810_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      15,
+      298,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569700.840_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569700.840_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      196,
+      6,
+      483,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569453.790_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569453.790_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      335,
+      12,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569478.799_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569478.799_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      351,
+      5,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569568.809_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569568.809_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      5,
+      316,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569689.840_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569689.840_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      5,
+      391,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569835.869_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569835.869_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      420,
+      8,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570035.960_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570035.960_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      91,
+      137,
+      396,
+      380
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570150.979_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570150.979_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      232,
+      9,
+      448,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569583.819_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569583.819_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      5,
+      318,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569833.869_x4000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569833.869_x4000.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      17,
+      311,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569830.869_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569830.869_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      373,
+      7,
+      639,
+      496
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569625.829_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569625.829_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      15,
+      403,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569860.870_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569860.870_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      496,
+      250,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569672.840_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569672.840_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      401,
+      10,
+      639,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569657.830_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569657.830_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      365,
+      10,
+      639,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569402.779_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569402.779_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      16,
+      512,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569641.830_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569641.830_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      168,
+      3,
+      416,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569476.799_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569476.799_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      175,
+      4,
+      372,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569575.819_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569575.819_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      257,
+      2,
+      639,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569471.799_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569471.799_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      346,
+      7,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569488.800_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569488.800_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      15,
+      236,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569620.829_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569620.829_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      7,
+      366,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569760.849_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569760.849_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      11,
+      5,
+      428,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569595.819_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569595.819_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      281,
+      1,
+      639,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569772.860_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569772.860_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      38,
+      10,
+      550,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569414.790_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569414.790_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      342,
+      5,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570103.969_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570103.969_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      222,
+      1,
+      462,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569408.779_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569408.779_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      189,
+      4,
+      483,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569506.799_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569506.799_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      343,
+      10,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569421.789_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569421.789_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      364,
+      9,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570182.990_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570182.990_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      247,
+      2,
+      448,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569773.860_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569773.860_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      35,
+      1,
+      520,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569561.809_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569561.809_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      157,
+      2,
+      427,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693573386.82_x500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693573386.82_x500.txt",
+    "line_number": 0,
+    "bbox": [
+      7,
+      12,
+      256,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569572.819_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569572.819_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      2,
+      336,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570151.979_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570151.979_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      226,
+      24,
+      458,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569419.790_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569419.790_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      1,
+      301,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569621.829_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569621.829_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      1,
+      391,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569801.860_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569801.860_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      338,
+      4,
+      562,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569481.799_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569481.799_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      340,
+      5,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693570086.969_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693570086.969_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      51,
+      1,
+      313,
+      465
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569578.819_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569578.819_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      5,
+      337,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569698.840_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569698.840_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      201,
+      3,
+      443,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569792.859_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569792.859_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      117,
+      15,
+      587,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569485.800_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569485.800_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      325,
+      1,
+      639,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569433.789_x1500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569433.789_x1500.txt",
+    "line_number": 0,
+    "bbox": [
+      184,
+      4,
+      407,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569679.840_x3000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569679.840_x3000.txt",
+    "line_number": 0,
+    "bbox": [
+      403,
+      1,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569844.869_x4000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569844.869_x4000.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      7,
+      253,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693569624.829_x3500.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693569624.829_x3500.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      7,
+      408,
+      500
+    ]
+  },
+  {
+    "class_id": 0,
+    "class_name": "submarine_pipeline",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/pipe_1693573390.819_x1000.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/pipe_1693573390.819_x1000.txt",
+    "line_number": 0,
+    "bbox": [
+      179,
+      6,
+      640,
+      500
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_EB_Allen_06_y960_x320.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_EB_Allen_06_y960_x320.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      0,
+      328,
+      547
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-200_png.rf.fabf34812a4569bab06d8ed56d3f3582.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-200_png.rf.fabf34812a4569bab06d8ed56d3f3582.txt",
+    "line_number": 0,
+    "bbox": [
+      4,
+      25,
+      341,
+      165
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_EB_Allen_06_y640_x320.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_EB_Allen_06_y640_x320.txt",
+    "line_number": 3,
+    "bbox": [
+      177,
+      602,
+      199,
+      640
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-421_png.rf.af639c2f35a87e1526fcbd2548d83c36.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-421_png.rf.af639c2f35a87e1526fcbd2548d83c36.txt",
+    "line_number": 0,
+    "bbox": [
+      7,
+      36,
+      1061,
+      331
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Oscar_T_Flint_03_y1280_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Oscar_T_Flint_03_y1280_x1088.txt",
+    "line_number": 1,
+    "bbox": [
+      350,
+      549,
+      402,
+      571
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_DM_Wilson_13_y960_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_DM_Wilson_13_y960_x1088.txt",
+    "line_number": 2,
+    "bbox": [
+      208,
+      115,
+      640,
+      640
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_WP_Rend_11_y2560_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_WP_Rend_11_y2560_x1088.txt",
+    "line_number": 3,
+    "bbox": [
+      92,
+      81,
+      134,
+      106
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Montana_06_y960_x320.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Montana_06_y960_x320.txt",
+    "line_number": 1,
+    "bbox": [
+      627,
+      52,
+      640,
+      111
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-206_png.rf.d165bd4d5b33d7df6cb9a98dd1b94326.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-206_png.rf.d165bd4d5b33d7df6cb9a98dd1b94326.txt",
+    "line_number": 0,
+    "bbox": [
+      47,
+      92,
+      602,
+      618
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Montana_03_y640_x0.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Montana_03_y640_x0.txt",
+    "line_number": 0,
+    "bbox": [
+      8,
+      462,
+      560,
+      640
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-471_png.rf.5e670d141420e79aae7bceb2ded134be.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-471_png.rf.5e670d141420e79aae7bceb2ded134be.txt",
+    "line_number": 0,
+    "bbox": [
+      204,
+      43,
+      424,
+      455
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_WP_Rend_11_y3520_x640.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_WP_Rend_11_y3520_x640.txt",
+    "line_number": 2,
+    "bbox": [
+      372,
+      31,
+      410,
+      73
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Near_Shore_02_y7680_x0.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Near_Shore_02_y7680_x0.txt",
+    "line_number": 0,
+    "bbox": [
+      478,
+      0,
+      513,
+      12
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Egyptian_10_y620_x0.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Egyptian_10_y620_x0.txt",
+    "line_number": 3,
+    "bbox": [
+      398,
+      109,
+      592,
+      413
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Oscar_T_Flint_11_y640_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Oscar_T_Flint_11_y640_x1088.txt",
+    "line_number": 3,
+    "bbox": [
+      47,
+      321,
+      93,
+      382
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Isaac_M_Scott_03_y960_x320.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Isaac_M_Scott_03_y960_x320.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      104,
+      190,
+      188
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Heart_Failure_08_y320_x640.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Heart_Failure_08_y320_x640.txt",
+    "line_number": 1,
+    "bbox": [
+      452,
+      535,
+      483,
+      577
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-185_png.rf.027f45ac8b7e51b2ce1ad81ba40743cc.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-185_png.rf.027f45ac8b7e51b2ce1ad81ba40743cc.txt",
+    "line_number": 0,
+    "bbox": [
+      54,
+      37,
+      256,
+      294
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_EB_Allen_21_y320_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_EB_Allen_21_y320_x1088.txt",
+    "line_number": 0,
+    "bbox": [
+      394,
+      32,
+      640,
+      92
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_EB_Allen_06_y960_x320.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_EB_Allen_06_y960_x320.txt",
+    "line_number": 1,
+    "bbox": [
+      139,
+      109,
+      176,
+      171
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Isaac_M_Scott_06_y640_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Isaac_M_Scott_06_y640_x960.txt",
+    "line_number": 0,
+    "bbox": [
+      236,
+      0,
+      364,
+      513
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_WP_Rend_05_y640_x320.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_WP_Rend_05_y640_x320.txt",
+    "line_number": 1,
+    "bbox": [
+      451,
+      36,
+      464,
+      62
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Oscar_T_Flint_03_y1600_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Oscar_T_Flint_03_y1600_x960.txt",
+    "line_number": 4,
+    "bbox": [
+      359,
+      513,
+      401,
+      535
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Heart_Failure_10_y1263_x640.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Heart_Failure_10_y1263_x640.txt",
+    "line_number": 1,
+    "bbox": [
+      7,
+      22,
+      40,
+      66
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Montana_05_y1280_x0.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Montana_05_y1280_x0.txt",
+    "line_number": 0,
+    "bbox": [
+      308,
+      121,
+      640,
+      639
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_DM_Wilson_11_y1280_x640.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_DM_Wilson_11_y1280_x640.txt",
+    "line_number": 0,
+    "bbox": [
+      589,
+      0,
+      639,
+      57
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_plane-051_png.rf.33cfb895e146be4aa69914cb82fe610a.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_plane-051_png.rf.33cfb895e146be4aa69914cb82fe610a.txt",
+    "line_number": 0,
+    "bbox": [
+      24,
+      29,
+      164,
+      184
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_DM_Wilson_03_y3520_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_DM_Wilson_03_y3520_x1088.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      409,
+      15,
+      431
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-340_png.rf.32cd1001f405726f772877868aa471ec.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-340_png.rf.32cd1001f405726f772877868aa471ec.txt",
+    "line_number": 0,
+    "bbox": [
+      6,
+      83,
+      168,
+      259
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-307_png.rf.6f63b77e0e3774e97dae8442acf4f127.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-307_png.rf.6f63b77e0e3774e97dae8442acf4f127.txt",
+    "line_number": 0,
+    "bbox": [
+      48,
+      66,
+      202,
+      150
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Egyptian_11_y0_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Egyptian_11_y0_x960.txt",
+    "line_number": 0,
+    "bbox": [
+      337,
+      237,
+      583,
+      555
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Egyptian_05_y0_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Egyptian_05_y0_x1088.txt",
+    "line_number": 3,
+    "bbox": [
+      319,
+      237,
+      343,
+      250
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Heart_Failure_08_y960_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Heart_Failure_08_y960_x960.txt",
+    "line_number": 1,
+    "bbox": [
+      0,
+      222,
+      98,
+      240
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_WP_Rend_06_y640_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_WP_Rend_06_y640_x1088.txt",
+    "line_number": 3,
+    "bbox": [
+      426,
+      526,
+      454,
+      558
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Montana_07_y1280_x640.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Montana_07_y1280_x640.txt",
+    "line_number": 2,
+    "bbox": [
+      241,
+      308,
+      515,
+      640
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Egyptian_06_y1533_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Egyptian_06_y1533_x960.txt",
+    "line_number": 0,
+    "bbox": [
+      602,
+      133,
+      612,
+      159
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Oscar_T_Flint_04_y1280_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Oscar_T_Flint_04_y1280_x960.txt",
+    "line_number": 3,
+    "bbox": [
+      179,
+      532,
+      224,
+      552
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Oscar_T_Flint_12_y960_x640.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Oscar_T_Flint_12_y960_x640.txt",
+    "line_number": 3,
+    "bbox": [
+      328,
+      67,
+      356,
+      93
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Grecian_04_y418_x640.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Grecian_04_y418_x640.txt",
+    "line_number": 0,
+    "bbox": [
+      383,
+      85,
+      640,
+      262
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_WP_Rend_06_y640_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_WP_Rend_06_y640_x960.txt",
+    "line_number": 4,
+    "bbox": [
+      387,
+      551,
+      529,
+      580
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_DM_Wilson_03_y3520_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_DM_Wilson_03_y3520_x960.txt",
+    "line_number": 0,
+    "bbox": [
+      125,
+      409,
+      143,
+      431
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Heart_Failure_10_y960_x0.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Heart_Failure_10_y960_x0.txt",
+    "line_number": 1,
+    "bbox": [
+      617,
+      114,
+      639,
+      201
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_DM_Wilson_08_y960_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_DM_Wilson_08_y960_x960.txt",
+    "line_number": 4,
+    "bbox": [
+      0,
+      413,
+      304,
+      639
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_EB_Allen_22_y1280_x320.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_EB_Allen_22_y1280_x320.txt",
+    "line_number": 3,
+    "bbox": [
+      0,
+      254,
+      276,
+      306
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_WP_Rend_11_y2880_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_WP_Rend_11_y2880_x1088.txt",
+    "line_number": 0,
+    "bbox": [
+      132,
+      0,
+      640,
+      640
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Oscar_T_Flint_12_y640_x640.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Oscar_T_Flint_12_y640_x640.txt",
+    "line_number": 3,
+    "bbox": [
+      316,
+      256,
+      336,
+      291
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_WP_Rend_11_y2880_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_WP_Rend_11_y2880_x1088.txt",
+    "line_number": 6,
+    "bbox": [
+      245,
+      423,
+      271,
+      480
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_DM_Wilson_14_y1280_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_DM_Wilson_14_y1280_x960.txt",
+    "line_number": 1,
+    "bbox": [
+      317,
+      281,
+      359,
+      330
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Montana_08_y0_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Montana_08_y0_x1088.txt",
+    "line_number": 1,
+    "bbox": [
+      405,
+      571,
+      443,
+      593
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-169_png.rf.6bd7ee1d6ba74848ff0400012d5bb833.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-169_png.rf.6bd7ee1d6ba74848ff0400012d5bb833.txt",
+    "line_number": 0,
+    "bbox": [
+      43,
+      81,
+      220,
+      200
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_WP_Rend_06_y0_x320.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_WP_Rend_06_y0_x320.txt",
+    "line_number": 0,
+    "bbox": [
+      209,
+      204,
+      378,
+      328
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_WP_Rend_05_y320_x320.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_WP_Rend_05_y320_x320.txt",
+    "line_number": 10,
+    "bbox": [
+      0,
+      505,
+      497,
+      639
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_WP_Rend_06_y960_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_WP_Rend_06_y960_x960.txt",
+    "line_number": 4,
+    "bbox": [
+      387,
+      231,
+      529,
+      260
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-109_png.rf.57187d58434162d90e38845f79b36136.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-109_png.rf.57187d58434162d90e38845f79b36136.txt",
+    "line_number": 0,
+    "bbox": [
+      74,
+      26,
+      197,
+      304
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_DM_Wilson_14_y640_x0.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_DM_Wilson_14_y640_x0.txt",
+    "line_number": 1,
+    "bbox": [
+      348,
+      409,
+      408,
+      471
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-198_png.rf.e2ed60ed1af1aa078846754ac6be4453.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-198_png.rf.e2ed60ed1af1aa078846754ac6be4453.txt",
+    "line_number": 0,
+    "bbox": [
+      25,
+      7,
+      270,
+      237
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Near_Shore_02_y7040_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Near_Shore_02_y7040_x1088.txt",
+    "line_number": 4,
+    "bbox": [
+      71,
+      325,
+      89,
+      341
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Montana_02_y1570_x640.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Montana_02_y1570_x640.txt",
+    "line_number": 0,
+    "bbox": [
+      264,
+      0,
+      640,
+      448
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_DM_Wilson_14_y960_x640.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_DM_Wilson_14_y960_x640.txt",
+    "line_number": 0,
+    "bbox": [
+      554,
+      0,
+      640,
+      491
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Montana_02_y960_x640.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Montana_02_y960_x640.txt",
+    "line_number": 1,
+    "bbox": [
+      568,
+      520,
+      640,
+      640
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_WP_Rend_02_y640_x320.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_WP_Rend_02_y640_x320.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      232,
+      303,
+      368
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Near_Shore_02_y1600_x0.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Near_Shore_02_y1600_x0.txt",
+    "line_number": 0,
+    "bbox": [
+      16,
+      0,
+      122,
+      120
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Near_Shore_03_y8527_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Near_Shore_03_y8527_x1088.txt",
+    "line_number": 0,
+    "bbox": [
+      217,
+      3,
+      259,
+      113
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_DR_Hanna_03_y1280_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_DR_Hanna_03_y1280_x1088.txt",
+    "line_number": 1,
+    "bbox": [
+      92,
+      0,
+      640,
+      224
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-069_png.rf.3f3c3d1df39b560ad0f635b25b494c9b.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-069_png.rf.3f3c3d1df39b560ad0f635b25b494c9b.txt",
+    "line_number": 0,
+    "bbox": [
+      29,
+      44,
+      103,
+      107
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Montana_06_y320_x320.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Montana_06_y320_x320.txt",
+    "line_number": 1,
+    "bbox": [
+      611,
+      550,
+      640,
+      640
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_EB_Allen_24_y320_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_EB_Allen_24_y320_x1088.txt",
+    "line_number": 0,
+    "bbox": [
+      40,
+      302,
+      294,
+      640
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Oscar_T_Flint_03_y1600_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Oscar_T_Flint_03_y1600_x1088.txt",
+    "line_number": 5,
+    "bbox": [
+      231,
+      513,
+      273,
+      535
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Oscar_T_Flint_03_y1280_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Oscar_T_Flint_03_y1280_x960.txt",
+    "line_number": 3,
+    "bbox": [
+      352,
+      611,
+      431,
+      640
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Montana_06_y320_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Montana_06_y320_x960.txt",
+    "line_number": 1,
+    "bbox": [
+      597,
+      594,
+      639,
+      640
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Montana_04_y1280_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Montana_04_y1280_x1088.txt",
+    "line_number": 0,
+    "bbox": [
+      122,
+      0,
+      640,
+      444
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Oscar_T_Flint_11_y320_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Oscar_T_Flint_11_y320_x1088.txt",
+    "line_number": 2,
+    "bbox": [
+      77,
+      578,
+      95,
+      590
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Grecian_04_y418_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Grecian_04_y418_x1088.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      0,
+      464,
+      253
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Oscar_T_Flint_11_y640_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Oscar_T_Flint_11_y640_x960.txt",
+    "line_number": 3,
+    "bbox": [
+      77,
+      262,
+      115,
+      284
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Oscar_T_Flint_04_y1280_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Oscar_T_Flint_04_y1280_x960.txt",
+    "line_number": 1,
+    "bbox": [
+      0,
+      354,
+      232,
+      530
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Heart_Failure_10_y960_x640.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Heart_Failure_10_y960_x640.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      24,
+      18,
+      56
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_DM_Wilson_09_y1280_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_DM_Wilson_09_y1280_x960.txt",
+    "line_number": 2,
+    "bbox": [
+      511,
+      113,
+      537,
+      139
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-083_png.rf.bbfb7dfc2b3835b907714384f256d0da.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-083_png.rf.bbfb7dfc2b3835b907714384f256d0da.txt",
+    "line_number": 0,
+    "bbox": [
+      67,
+      42,
+      187,
+      176
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-202_png.rf.c7a057f2c8f8d95f492a6c13b6eeefa1.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-202_png.rf.c7a057f2c8f8d95f492a6c13b6eeefa1.txt",
+    "line_number": 0,
+    "bbox": [
+      8,
+      3,
+      217,
+      337
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-301_png.rf.0ca9ddbaf0dc0174ba03b806e04cf743.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-301_png.rf.0ca9ddbaf0dc0174ba03b806e04cf743.txt",
+    "line_number": 0,
+    "bbox": [
+      24,
+      32,
+      761,
+      245
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-183_png.rf.98cdb7185b521434a09039a3838e8446.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-183_png.rf.98cdb7185b521434a09039a3838e8446.txt",
+    "line_number": 0,
+    "bbox": [
+      75,
+      23,
+      160,
+      301
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Egyptian_09_y630_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Egyptian_09_y630_x1088.txt",
+    "line_number": 5,
+    "bbox": [
+      500,
+      260,
+      524,
+      275
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Egyptian_09_y320_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Egyptian_09_y320_x960.txt",
+    "line_number": 1,
+    "bbox": [
+      469,
+      482,
+      481,
+      506
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Montana_08_y1600_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Montana_08_y1600_x1088.txt",
+    "line_number": 0,
+    "bbox": [
+      278,
+      0,
+      338,
+      91
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Pewabic_01_y640_x640.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Pewabic_01_y640_x640.txt",
+    "line_number": 1,
+    "bbox": [
+      359,
+      212,
+      429,
+      291
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_DM_Wilson_13_y1920_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_DM_Wilson_13_y1920_x1088.txt",
+    "line_number": 1,
+    "bbox": [
+      405,
+      179,
+      466,
+      265
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-423_png.rf.778caf995f7f71d15053b2efe105dee8.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-423_png.rf.778caf995f7f71d15053b2efe105dee8.txt",
+    "line_number": 0,
+    "bbox": [
+      10,
+      64,
+      123,
+      327
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Heart_Failure_08_y320_x320.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Heart_Failure_08_y320_x320.txt",
+    "line_number": 0,
+    "bbox": [
+      443,
+      219,
+      468,
+      251
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-047_png.rf.6322aa1477e823d7229ed87a613e4945.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-047_png.rf.6322aa1477e823d7229ed87a613e4945.txt",
+    "line_number": 0,
+    "bbox": [
+      21,
+      27,
+      322,
+      248
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-307_png.rf.2e71fa252e32667dd0c74f4727a2dd41.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-307_png.rf.2e71fa252e32667dd0c74f4727a2dd41.txt",
+    "line_number": 0,
+    "bbox": [
+      19,
+      66,
+      173,
+      150
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-113_png.rf.07816ee5fd525fea8ab641b7eaeb676f.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-113_png.rf.07816ee5fd525fea8ab641b7eaeb676f.txt",
+    "line_number": 0,
+    "bbox": [
+      238,
+      18,
+      416,
+      477
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_DM_Wilson_13_y1920_x640.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_DM_Wilson_13_y1920_x640.txt",
+    "line_number": 1,
+    "bbox": [
+      575,
+      111,
+      640,
+      205
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Montana_08_y0_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Montana_08_y0_x1088.txt",
+    "line_number": 0,
+    "bbox": [
+      121,
+      369,
+      315,
+      639
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Montana_07_y1920_x960.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Montana_07_y1920_x960.txt",
+    "line_number": 1,
+    "bbox": [
+      535,
+      0,
+      640,
+      103
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_plane-011_png.rf.654efac9c334708ff2ead6c3cb26e444.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_plane-011_png.rf.654efac9c334708ff2ead6c3cb26e444.txt",
+    "line_number": 0,
+    "bbox": [
+      13,
+      9,
+      220,
+      204
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_WP_Rend_09_y2880_x320.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_WP_Rend_09_y2880_x320.txt",
+    "line_number": 3,
+    "bbox": [
+      97,
+      579,
+      111,
+      597
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Heart_Failure_09_y640_x640.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Heart_Failure_09_y640_x640.txt",
+    "line_number": 0,
+    "bbox": [
+      90,
+      48,
+      170,
+      162
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_Heart_Failure_08_y640_x0.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_Heart_Failure_08_y640_x0.txt",
+    "line_number": 0,
+    "bbox": [
+      428,
+      555,
+      640,
+      617
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckA_DM_Wilson_12_y1280_x1088.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckA_DM_Wilson_12_y1280_x1088.txt",
+    "line_number": 2,
+    "bbox": [
+      251,
+      416,
+      289,
+      496
+    ]
+  },
+  {
+    "class_id": 1,
+    "class_name": "shipwreck",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/wreckR_ship-388_png.rf.36a411e9f8083ead3b58363cf484692e.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/wreckR_ship-388_png.rf.36a411e9f8083ead3b58363cf484692e.txt",
+    "line_number": 0,
+    "bbox": [
+      37,
+      23,
+      234,
+      168
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00883.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00883.txt",
+    "line_number": 0,
+    "bbox": [
+      119,
+      196,
+      257,
+      344
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00549.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00549.txt",
+    "line_number": 0,
+    "bbox": [
+      172,
+      352,
+      312,
+      528
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00093.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00093.txt",
+    "line_number": 0,
+    "bbox": [
+      271,
+      263,
+      487,
+      384
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00829.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00829.txt",
+    "line_number": 0,
+    "bbox": [
+      140,
+      367,
+      255,
+      505
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00202.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00202.txt",
+    "line_number": 0,
+    "bbox": [
+      256,
+      400,
+      441,
+      519
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00648.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00648.txt",
+    "line_number": 0,
+    "bbox": [
+      236,
+      190,
+      347,
+      254
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00384.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00384.txt",
+    "line_number": 0,
+    "bbox": [
+      81,
+      95,
+      307,
+      248
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00655.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00655.txt",
+    "line_number": 0,
+    "bbox": [
+      384,
+      140,
+      483,
+      292
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00014.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00014.txt",
+    "line_number": 0,
+    "bbox": [
+      255,
+      144,
+      328,
+      375
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00414.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00414.txt",
+    "line_number": 0,
+    "bbox": [
+      252,
+      312,
+      408,
+      484
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00739.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00739.txt",
+    "line_number": 0,
+    "bbox": [
+      377,
+      79,
+      480,
+      289
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00464.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00464.txt",
+    "line_number": 0,
+    "bbox": [
+      153,
+      268,
+      331,
+      404
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00524.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00524.txt",
+    "line_number": 0,
+    "bbox": [
+      331,
+      240,
+      518,
+      375
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00877.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00877.txt",
+    "line_number": 0,
+    "bbox": [
+      438,
+      388,
+      585,
+      580
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00171.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00171.txt",
+    "line_number": 0,
+    "bbox": [
+      412,
+      280,
+      505,
+      440
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00683.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00683.txt",
+    "line_number": 0,
+    "bbox": [
+      303,
+      348,
+      397,
+      439
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00529.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00529.txt",
+    "line_number": 0,
+    "bbox": [
+      368,
+      79,
+      606,
+      173
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00170.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00170.txt",
+    "line_number": 0,
+    "bbox": [
+      118,
+      363,
+      308,
+      510
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00835.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00835.txt",
+    "line_number": 0,
+    "bbox": [
+      279,
+      127,
+      416,
+      280
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00734.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00734.txt",
+    "line_number": 0,
+    "bbox": [
+      76,
+      264,
+      212,
+      367
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00449.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00449.txt",
+    "line_number": 0,
+    "bbox": [
+      212,
+      303,
+      403,
+      435
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00590.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00590.txt",
+    "line_number": 0,
+    "bbox": [
+      384,
+      284,
+      579,
+      419
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00423.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00423.txt",
+    "line_number": 0,
+    "bbox": [
+      409,
+      412,
+      532,
+      503
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00708.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00708.txt",
+    "line_number": 0,
+    "bbox": [
+      160,
+      91,
+      283,
+      259
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00453.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00453.txt",
+    "line_number": 0,
+    "bbox": [
+      203,
+      363,
+      332,
+      545
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00438.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00438.txt",
+    "line_number": 0,
+    "bbox": [
+      96,
+      49,
+      177,
+      199
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00637.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00637.txt",
+    "line_number": 0,
+    "bbox": [
+      100,
+      180,
+      191,
+      308
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00255.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00255.txt",
+    "line_number": 0,
+    "bbox": [
+      209,
+      480,
+      318,
+      548
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00755.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00755.txt",
+    "line_number": 0,
+    "bbox": [
+      135,
+      51,
+      292,
+      211
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00638.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00638.txt",
+    "line_number": 0,
+    "bbox": [
+      195,
+      324,
+      379,
+      427
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00790.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00790.txt",
+    "line_number": 0,
+    "bbox": [
+      315,
+      288,
+      393,
+      400
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00501.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00501.txt",
+    "line_number": 0,
+    "bbox": [
+      51,
+      296,
+      188,
+      371
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00393.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00393.txt",
+    "line_number": 0,
+    "bbox": [
+      444,
+      183,
+      494,
+      273
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00653.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00653.txt",
+    "line_number": 0,
+    "bbox": [
+      172,
+      206,
+      368,
+      319
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00100.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00100.txt",
+    "line_number": 0,
+    "bbox": [
+      374,
+      291,
+      524,
+      452
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00265.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00265.txt",
+    "line_number": 0,
+    "bbox": [
+      158,
+      216,
+      369,
+      380
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00357.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00357.txt",
+    "line_number": 0,
+    "bbox": [
+      240,
+      376,
+      350,
+      507
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00062.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00062.txt",
+    "line_number": 0,
+    "bbox": [
+      292,
+      268,
+      451,
+      385
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00030.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00030.txt",
+    "line_number": 0,
+    "bbox": [
+      71,
+      51,
+      228,
+      193
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00516.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00516.txt",
+    "line_number": 0,
+    "bbox": [
+      262,
+      201,
+      368,
+      382
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00454.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00454.txt",
+    "line_number": 0,
+    "bbox": [
+      332,
+      113,
+      516,
+      270
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00091.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00091.txt",
+    "line_number": 0,
+    "bbox": [
+      200,
+      108,
+      345,
+      192
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00752.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00752.txt",
+    "line_number": 0,
+    "bbox": [
+      352,
+      183,
+      513,
+      280
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00369.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00369.txt",
+    "line_number": 0,
+    "bbox": [
+      347,
+      456,
+      511,
+      575
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00605.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00605.txt",
+    "line_number": 0,
+    "bbox": [
+      376,
+      254,
+      527,
+      360
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00389.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00389.txt",
+    "line_number": 0,
+    "bbox": [
+      406,
+      414,
+      519,
+      582
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00229.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00229.txt",
+    "line_number": 0,
+    "bbox": [
+      193,
+      123,
+      244,
+      292
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00870.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00870.txt",
+    "line_number": 0,
+    "bbox": [
+      228,
+      212,
+      444,
+      362
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00472.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00472.txt",
+    "line_number": 0,
+    "bbox": [
+      81,
+      350,
+      196,
+      564
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00278.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00278.txt",
+    "line_number": 0,
+    "bbox": [
+      383,
+      337,
+      507,
+      436
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00523.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00523.txt",
+    "line_number": 0,
+    "bbox": [
+      60,
+      369,
+      179,
+      545
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00013.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00013.txt",
+    "line_number": 0,
+    "bbox": [
+      376,
+      392,
+      548,
+      452
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00615.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00615.txt",
+    "line_number": 0,
+    "bbox": [
+      187,
+      288,
+      336,
+      377
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00410.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00410.txt",
+    "line_number": 0,
+    "bbox": [
+      397,
+      55,
+      508,
+      179
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00117.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00117.txt",
+    "line_number": 0,
+    "bbox": [
+      204,
+      207,
+      318,
+      302
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00135.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00135.txt",
+    "line_number": 0,
+    "bbox": [
+      356,
+      92,
+      511,
+      196
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00110.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00110.txt",
+    "line_number": 0,
+    "bbox": [
+      103,
+      145,
+      212,
+      272
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00663.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00663.txt",
+    "line_number": 0,
+    "bbox": [
+      272,
+      326,
+      464,
+      448
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00182.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00182.txt",
+    "line_number": 0,
+    "bbox": [
+      478,
+      289,
+      572,
+      496
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00151.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00151.txt",
+    "line_number": 0,
+    "bbox": [
+      402,
+      296,
+      577,
+      436
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00015.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00015.txt",
+    "line_number": 0,
+    "bbox": [
+      135,
+      188,
+      304,
+      402
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00224.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00224.txt",
+    "line_number": 0,
+    "bbox": [
+      136,
+      374,
+      256,
+      476
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00206.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00206.txt",
+    "line_number": 0,
+    "bbox": [
+      362,
+      276,
+      510,
+      457
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00643.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00643.txt",
+    "line_number": 0,
+    "bbox": [
+      300,
+      225,
+      471,
+      368
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00810.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00810.txt",
+    "line_number": 0,
+    "bbox": [
+      227,
+      392,
+      408,
+      569
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00619.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00619.txt",
+    "line_number": 0,
+    "bbox": [
+      120,
+      383,
+      297,
+      582
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00118.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00118.txt",
+    "line_number": 0,
+    "bbox": [
+      457,
+      137,
+      544,
+      332
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00522.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00522.txt",
+    "line_number": 0,
+    "bbox": [
+      96,
+      471,
+      272,
+      606
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00725.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00725.txt",
+    "line_number": 0,
+    "bbox": [
+      417,
+      377,
+      542,
+      535
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00738.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00738.txt",
+    "line_number": 0,
+    "bbox": [
+      385,
+      364,
+      599,
+      511
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00336.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00336.txt",
+    "line_number": 0,
+    "bbox": [
+      362,
+      259,
+      452,
+      388
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00806.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00806.txt",
+    "line_number": 0,
+    "bbox": [
+      337,
+      160,
+      577,
+      286
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00096.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00096.txt",
+    "line_number": 0,
+    "bbox": [
+      208,
+      279,
+      372,
+      435
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00084.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00084.txt",
+    "line_number": 0,
+    "bbox": [
+      148,
+      206,
+      271,
+      294
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00603.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00603.txt",
+    "line_number": 0,
+    "bbox": [
+      227,
+      462,
+      350,
+      563
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00007.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00007.txt",
+    "line_number": 0,
+    "bbox": [
+      83,
+      160,
+      235,
+      320
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00282.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00282.txt",
+    "line_number": 0,
+    "bbox": [
+      376,
+      161,
+      476,
+      356
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00863.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00863.txt",
+    "line_number": 0,
+    "bbox": [
+      236,
+      446,
+      399,
+      577
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00777.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00777.txt",
+    "line_number": 0,
+    "bbox": [
+      144,
+      312,
+      256,
+      456
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00531.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00531.txt",
+    "line_number": 0,
+    "bbox": [
+      220,
+      164,
+      294,
+      328
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00002.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00002.txt",
+    "line_number": 0,
+    "bbox": [
+      176,
+      186,
+      299,
+      300
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00205.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00205.txt",
+    "line_number": 0,
+    "bbox": [
+      332,
+      72,
+      456,
+      295
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00285.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00285.txt",
+    "line_number": 0,
+    "bbox": [
+      422,
+      236,
+      524,
+      444
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00881.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00881.txt",
+    "line_number": 0,
+    "bbox": [
+      288,
+      201,
+      382,
+      348
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00772.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00772.txt",
+    "line_number": 0,
+    "bbox": [
+      403,
+      296,
+      520,
+      508
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00786.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00786.txt",
+    "line_number": 0,
+    "bbox": [
+      44,
+      160,
+      225,
+      248
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00862.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00862.txt",
+    "line_number": 0,
+    "bbox": [
+      124,
+      80,
+      276,
+      271
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00257.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00257.txt",
+    "line_number": 0,
+    "bbox": [
+      158,
+      348,
+      280,
+      444
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00657.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00657.txt",
+    "line_number": 0,
+    "bbox": [
+      273,
+      169,
+      353,
+      310
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00181.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00181.txt",
+    "line_number": 0,
+    "bbox": [
+      336,
+      164,
+      436,
+      265
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00864.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00864.txt",
+    "line_number": 0,
+    "bbox": [
+      377,
+      147,
+      539,
+      359
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00276.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00276.txt",
+    "line_number": 0,
+    "bbox": [
+      270,
+      322,
+      432,
+      432
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00129.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00129.txt",
+    "line_number": 0,
+    "bbox": [
+      460,
+      110,
+      569,
+      211
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00490.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00490.txt",
+    "line_number": 0,
+    "bbox": [
+      272,
+      352,
+      443,
+      561
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00161.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00161.txt",
+    "line_number": 0,
+    "bbox": [
+      252,
+      240,
+      371,
+      305
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00388.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00388.txt",
+    "line_number": 0,
+    "bbox": [
+      451,
+      308,
+      568,
+      384
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00400.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00400.txt",
+    "line_number": 0,
+    "bbox": [
+      137,
+      88,
+      267,
+      227
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00817.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00817.txt",
+    "line_number": 0,
+    "bbox": [
+      270,
+      475,
+      331,
+      548
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00371.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00371.txt",
+    "line_number": 0,
+    "bbox": [
+      168,
+      212,
+      420,
+      408
+    ]
+  },
+  {
+    "class_id": 2,
+    "class_name": "ghost_net",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_ghost_net_00723.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_ghost_net_00723.txt",
+    "line_number": 0,
+    "bbox": [
+      148,
+      240,
+      255,
+      352
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00214.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00214.txt",
+    "line_number": 0,
+    "bbox": [
+      323,
+      366,
+      345,
+      416
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00074.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00074.txt",
+    "line_number": 0,
+    "bbox": [
+      240,
+      273,
+      296,
+      347
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0020_2021.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0020_2021.txt",
+    "line_number": 1,
+    "bbox": [
+      247,
+      307,
+      262,
+      317
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0055_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0055_2015.txt",
+    "line_number": 12,
+    "bbox": [
+      281,
+      895,
+      327,
+      932
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00241.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00241.txt",
+    "line_number": 0,
+    "bbox": [
+      131,
+      408,
+      156,
+      492
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0004_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0004_2015.txt",
+    "line_number": 4,
+    "bbox": [
+      899,
+      568,
+      921,
+      588
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00222.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00222.txt",
+    "line_number": 0,
+    "bbox": [
+      395,
+      135,
+      422,
+      180
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00118.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00118.txt",
+    "line_number": 0,
+    "bbox": [
+      208,
+      323,
+      276,
+      364
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00101.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00101.txt",
+    "line_number": 0,
+    "bbox": [
+      404,
+      380,
+      462,
+      399
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0026_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0026_2015.txt",
+    "line_number": 1,
+    "bbox": [
+      350,
+      374,
+      392,
+      393
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0268_2018.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0268_2018.txt",
+    "line_number": 0,
+    "bbox": [
+      176,
+      856,
+      204,
+      870
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0359_2018.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0359_2018.txt",
+    "line_number": 0,
+    "bbox": [
+      2,
+      184,
+      38,
+      196
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00310.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00310.txt",
+    "line_number": 0,
+    "bbox": [
+      280,
+      451,
+      308,
+      516
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0437_2018.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0437_2018.txt",
+    "line_number": 0,
+    "bbox": [
+      267,
+      25,
+      276,
+      30
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0443_2018.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0443_2018.txt",
+    "line_number": 0,
+    "bbox": [
+      323,
+      55,
+      334,
+      63
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00086.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00086.txt",
+    "line_number": 0,
+    "bbox": [
+      121,
+      212,
+      212,
+      294
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0096_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0096_2015.txt",
+    "line_number": 0,
+    "bbox": [
+      34,
+      315,
+      62,
+      326
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0056_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0056_2015.txt",
+    "line_number": 7,
+    "bbox": [
+      286,
+      68,
+      337,
+      106
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0112_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0112_2015.txt",
+    "line_number": 0,
+    "bbox": [
+      229,
+      991,
+      285,
+      1014
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0329_2018.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0329_2018.txt",
+    "line_number": 0,
+    "bbox": [
+      172,
+      321,
+      181,
+      329
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00291.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00291.txt",
+    "line_number": 0,
+    "bbox": [
+      191,
+      388,
+      217,
+      472
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0018_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0018_2015.txt",
+    "line_number": 0,
+    "bbox": [
+      333,
+      53,
+      349,
+      59
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0048_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0048_2015.txt",
+    "line_number": 4,
+    "bbox": [
+      2,
+      305,
+      25,
+      318
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00066.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00066.txt",
+    "line_number": 0,
+    "bbox": [
+      312,
+      313,
+      377,
+      404
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00059.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00059.txt",
+    "line_number": 0,
+    "bbox": [
+      476,
+      241,
+      528,
+      291
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0282_2018.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0282_2018.txt",
+    "line_number": 0,
+    "bbox": [
+      385,
+      83,
+      412,
+      115
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0071_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0071_2015.txt",
+    "line_number": 0,
+    "bbox": [
+      119,
+      77,
+      142,
+      89
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0039_2017.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0039_2017.txt",
+    "line_number": 1,
+    "bbox": [
+      748,
+      549,
+      774,
+      570
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0055_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0055_2015.txt",
+    "line_number": 10,
+    "bbox": [
+      604,
+      788,
+      650,
+      828
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0320_2018.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0320_2018.txt",
+    "line_number": 0,
+    "bbox": [
+      236,
+      100,
+      263,
+      134
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00207.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00207.txt",
+    "line_number": 0,
+    "bbox": [
+      148,
+      468,
+      187,
+      523
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00212.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00212.txt",
+    "line_number": 0,
+    "bbox": [
+      300,
+      124,
+      379,
+      173
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00250.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00250.txt",
+    "line_number": 0,
+    "bbox": [
+      163,
+      357,
+      206,
+      395
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0110_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0110_2015.txt",
+    "line_number": 2,
+    "bbox": [
+      704,
+      475,
+      743,
+      495
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0093_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0093_2015.txt",
+    "line_number": 0,
+    "bbox": [
+      676,
+      280,
+      784,
+      312
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0442_2018.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0442_2018.txt",
+    "line_number": 0,
+    "bbox": [
+      256,
+      316,
+      263,
+      326
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0137_2018.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0137_2018.txt",
+    "line_number": 0,
+    "bbox": [
+      252,
+      176,
+      271,
+      197
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0040_2021.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0040_2021.txt",
+    "line_number": 1,
+    "bbox": [
+      81,
+      377,
+      100,
+      391
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0010_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0010_2015.txt",
+    "line_number": 0,
+    "bbox": [
+      0,
+      183,
+      21,
+      195
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00085.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00085.txt",
+    "line_number": 0,
+    "bbox": [
+      80,
+      288,
+      180,
+      327
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00049.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00049.txt",
+    "line_number": 0,
+    "bbox": [
+      104,
+      203,
+      193,
+      257
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0085_2018.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0085_2018.txt",
+    "line_number": 0,
+    "bbox": [
+      638,
+      823,
+      671,
+      862
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00141.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00141.txt",
+    "line_number": 0,
+    "bbox": [
+      230,
+      184,
+      324,
+      243
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00029.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00029.txt",
+    "line_number": 0,
+    "bbox": [
+      219,
+      423,
+      272,
+      518
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0063_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0063_2015.txt",
+    "line_number": 1,
+    "bbox": [
+      308,
+      366,
+      364,
+      418
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0012_2021.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0012_2021.txt",
+    "line_number": 0,
+    "bbox": [
+      48,
+      61,
+      75,
+      73
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00261.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00261.txt",
+    "line_number": 0,
+    "bbox": [
+      159,
+      475,
+      225,
+      548
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0049_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0049_2015.txt",
+    "line_number": 0,
+    "bbox": [
+      399,
+      982,
+      452,
+      1024
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0105_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0105_2015.txt",
+    "line_number": 1,
+    "bbox": [
+      366,
+      338,
+      390,
+      349
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0074_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0074_2015.txt",
+    "line_number": 0,
+    "bbox": [
+      2,
+      99,
+      46,
+      133
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00238.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00238.txt",
+    "line_number": 0,
+    "bbox": [
+      444,
+      439,
+      516,
+      492
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0118_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0118_2015.txt",
+    "line_number": 1,
+    "bbox": [
+      801,
+      929,
+      870,
+      954
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0013_2017.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0013_2017.txt",
+    "line_number": 0,
+    "bbox": [
+      874,
+      599,
+      932,
+      621
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00088.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00088.txt",
+    "line_number": 0,
+    "bbox": [
+      118,
+      400,
+      172,
+      463
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0368_2018.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0368_2018.txt",
+    "line_number": 1,
+    "bbox": [
+      71,
+      0,
+      103,
+      10
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0322_2010.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0322_2010.txt",
+    "line_number": 0,
+    "bbox": [
+      167,
+      202,
+      239,
+      246
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00090.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00090.txt",
+    "line_number": 0,
+    "bbox": [
+      120,
+      264,
+      160,
+      319
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00100.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00100.txt",
+    "line_number": 0,
+    "bbox": [
+      180,
+      264,
+      244,
+      328
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0002_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0002_2015.txt",
+    "line_number": 3,
+    "bbox": [
+      140,
+      295,
+      148,
+      299
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00229.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00229.txt",
+    "line_number": 0,
+    "bbox": [
+      340,
+      136,
+      414,
+      207
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00116.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00116.txt",
+    "line_number": 0,
+    "bbox": [
+      414,
+      303,
+      503,
+      350
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0456_2018.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0456_2018.txt",
+    "line_number": 0,
+    "bbox": [
+      248,
+      214,
+      314,
+      250
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0020_2021.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0020_2021.txt",
+    "line_number": 0,
+    "bbox": [
+      59,
+      242,
+      80,
+      257
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00221.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00221.txt",
+    "line_number": 0,
+    "bbox": [
+      179,
+      375,
+      200,
+      420
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00302.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00302.txt",
+    "line_number": 0,
+    "bbox": [
+      447,
+      140,
+      553,
+      184
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00042.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00042.txt",
+    "line_number": 0,
+    "bbox": [
+      459,
+      156,
+      504,
+      224
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0037_2021.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0037_2021.txt",
+    "line_number": 0,
+    "bbox": [
+      241,
+      91,
+      260,
+      106
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0037_2021.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0037_2021.txt",
+    "line_number": 1,
+    "bbox": [
+      305,
+      92,
+      314,
+      106
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0451_2018.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0451_2018.txt",
+    "line_number": 0,
+    "bbox": [
+      272,
+      225,
+      287,
+      231
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0085_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0085_2015.txt",
+    "line_number": 0,
+    "bbox": [
+      119,
+      23,
+      134,
+      33
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0089_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0089_2015.txt",
+    "line_number": 0,
+    "bbox": [
+      716,
+      296,
+      804,
+      332
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0063_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0063_2015.txt",
+    "line_number": 2,
+    "bbox": [
+      579,
+      507,
+      651,
+      546
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0061_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0061_2015.txt",
+    "line_number": 4,
+    "bbox": [
+      350,
+      360,
+      405,
+      375
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00120.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00120.txt",
+    "line_number": 0,
+    "bbox": [
+      284,
+      238,
+      334,
+      299
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00275.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00275.txt",
+    "line_number": 0,
+    "bbox": [
+      140,
+      151,
+      175,
+      207
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00053.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00053.txt",
+    "line_number": 0,
+    "bbox": [
+      207,
+      417,
+      276,
+      496
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00136.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00136.txt",
+    "line_number": 0,
+    "bbox": [
+      372,
+      403,
+      392,
+      496
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0044_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0044_2015.txt",
+    "line_number": 1,
+    "bbox": [
+      138,
+      778,
+      239,
+      825
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00242.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00242.txt",
+    "line_number": 0,
+    "bbox": [
+      279,
+      475,
+      364,
+      544
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00344.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00344.txt",
+    "line_number": 0,
+    "bbox": [
+      316,
+      159,
+      409,
+      209
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0010_2021.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0010_2021.txt",
+    "line_number": 2,
+    "bbox": [
+      35,
+      355,
+      58,
+      369
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00104.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00104.txt",
+    "line_number": 0,
+    "bbox": [
+      173,
+      480,
+      263,
+      528
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0005_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0005_2015.txt",
+    "line_number": 3,
+    "bbox": [
+      368,
+      169,
+      388,
+      198
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0013_2017.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0013_2017.txt",
+    "line_number": 1,
+    "bbox": [
+      286,
+      682,
+      314,
+      708
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0029_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0029_2015.txt",
+    "line_number": 0,
+    "bbox": [
+      345,
+      1,
+      370,
+      14
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0028_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0028_2015.txt",
+    "line_number": 1,
+    "bbox": [
+      822,
+      550,
+      933,
+      593
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00017.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00017.txt",
+    "line_number": 0,
+    "bbox": [
+      324,
+      188,
+      408,
+      236
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00177.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00177.txt",
+    "line_number": 0,
+    "bbox": [
+      115,
+      267,
+      207,
+      292
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0045_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0045_2015.txt",
+    "line_number": 0,
+    "bbox": [
+      83,
+      178,
+      96,
+      188
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00133.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00133.txt",
+    "line_number": 0,
+    "bbox": [
+      228,
+      248,
+      296,
+      344
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0013_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0013_2015.txt",
+    "line_number": 4,
+    "bbox": [
+      883,
+      840,
+      935,
+      882
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0033_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0033_2015.txt",
+    "line_number": 2,
+    "bbox": [
+      151,
+      183,
+      163,
+      193
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00031.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00031.txt",
+    "line_number": 0,
+    "bbox": [
+      219,
+      422,
+      297,
+      464
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0038_2017.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0038_2017.txt",
+    "line_number": 0,
+    "bbox": [
+      79,
+      73,
+      91,
+      79
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00005.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00005.txt",
+    "line_number": 0,
+    "bbox": [
+      252,
+      478,
+      359,
+      500
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0001_2021.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0001_2021.txt",
+    "line_number": 0,
+    "bbox": [
+      96,
+      2,
+      110,
+      15
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0034_2015.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0034_2015.txt",
+    "line_number": 0,
+    "bbox": [
+      850,
+      630,
+      942,
+      649
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/mine_0441_2018.jpg",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/mine_0441_2018.txt",
+    "line_number": 1,
+    "bbox": [
+      797,
+      958,
+      823,
+      976
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00018.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00018.txt",
+    "line_number": 0,
+    "bbox": [
+      425,
+      406,
+      487,
+      444
+    ]
+  },
+  {
+    "class_id": 3,
+    "class_name": "mine_cylinder",
+    "image": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/images/synth_mine_cylinder_00172.png",
+    "label": "/content/drive/MyDrive/TRINETRA/trinetra_4class/train/labels/synth_mine_cylinder_00172.txt",
+    "line_number": 0,
+    "bbox": [
+      423,
+      287,
+      481,
+      332
+    ]
+  }
+]

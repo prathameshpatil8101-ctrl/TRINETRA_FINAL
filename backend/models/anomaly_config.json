@@ -1,0 +1,17 @@
+{
+  "embedding_layer": 9,
+  "embedding_dimension": 256,
+  "reference_objects": 400,
+  "objects_per_class": 100,
+  "validation_objects": 100,
+  "validation_accuracy": 0.93,
+  "similarity_threshold": 0.7792,
+  "threshold_method": "5th_percentile_of_held_out_known_object_similarity",
+  "interpretation": {
+    "strong_known_like": ">= 0.85",
+    "known_like": "0.78-0.85",
+    "anomaly_candidate": "< 0.78"
+  },
+  "human_verification_required": true,
+  "warning": "Anomaly Candidate indicates low visual similarity to the known reference bank; it does not prove an unknown object."
+}
