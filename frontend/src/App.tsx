@@ -49,7 +49,14 @@ import {
   useRef,
   useState,
 } from "react"
-import { analyzeImage, API_BASE_URL, getHealth } from "./services/api"
+import {
+  analyzeImage,
+  getApiBaseUrl,
+  getCustomApiBaseUrl,
+  getDefaultApiBaseUrl,
+  setCustomApiBaseUrl,
+  getHealth,
+} from "./services/api"
 import ProductExperience from "./components/ProductExperience"
 import type {
   AnalysisResponse,
@@ -1740,6 +1747,24 @@ function SettingsPage({
   setIntensity: (v: string) => void
   clearHistory: () => void
 }) {
+  const [customUrl, setCustomUrl] = useState(() => getCustomApiBaseUrl() || "")
+  const [urlStatus, setUrlStatus] = useState("")
+
+  const handleSaveUrl = () => {
+    setCustomApiBaseUrl(customUrl)
+    setUrlStatus("Backend URL saved! Testing connection...")
+    setTimeout(() => setUrlStatus(""), 4000)
+    onRetry()
+  }
+
+  const handleResetUrl = () => {
+    setCustomApiBaseUrl(null)
+    setCustomUrl("")
+    setUrlStatus("Reset to default URL. Testing connection...")
+    setTimeout(() => setUrlStatus(""), 4000)
+    onRetry()
+  }
+
   return (
     <PageShell
       eyebrow="Interface configuration"
@@ -1755,13 +1780,36 @@ function SettingsPage({
             </div>
             <Network size={18} />
           </div>
-          <DataPoint label="Backend URL" value={API_BASE_URL} />
+          <DataPoint label="Active Backend URL" value={getApiBaseUrl()} />
           <Readout
             label="Connection status"
-            value={checking ? "CHECKING" : health ? "CONNECTED" : "OFFLINE"}
+            value={checking ? "CONNECTING / WAKING UP..." : health ? "CONNECTED" : "OFFLINE"}
             ok={!!health}
           />
-          <Button variant="outline" onClick={onRetry}>
+          <div style={{ marginTop: 14 }}>
+            <Field
+              label="Backend URL (Render / Production / Custom)"
+              value={customUrl}
+              onChange={setCustomUrl}
+              placeholder={getDefaultApiBaseUrl()}
+            />
+            <div style={{ display: "flex", gap: 8, marginTop: 8 }}>
+              <Button variant="primary" onClick={handleSaveUrl}>
+                Save & Connect
+              </Button>
+              {customUrl && (
+                <Button variant="outline" onClick={handleResetUrl}>
+                  Reset
+                </Button>
+              )}
+            </div>
+            {urlStatus && (
+              <small style={{ color: "var(--cyan)", display: "block", marginTop: 6, fontSize: "11px" }}>
+                {urlStatus}
+              </small>
+            )}
+          </div>
+          <Button variant="outline" onClick={onRetry} style={{ marginTop: 12 }}>
             <RefreshCw size={15} /> Retry connection
           </Button>
         </Panel>
@@ -1891,7 +1939,7 @@ export default function App() {
   const checkHealth = useCallback(async () => {
     setChecking(true)
     try {
-      setHealth(await getHealth(AbortSignal.timeout(5000)))
+      setHealth(await getHealth(AbortSignal.timeout(45000)))
     } catch {
       setHealth(null)
     } finally {

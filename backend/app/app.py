@@ -1,4 +1,5 @@
 import base64
+import os
 
 import cv2
 import numpy as np
@@ -26,18 +27,49 @@ app = FastAPI(
 # CORS Configuration
 # ============================================================
 
+default_origins = [
+    "https://trinetra-final.vercel.app",
+    "https://trinetra-gilt.vercel.app",
+    "http://localhost:5173",
+    "http://localhost:3000",
+    "http://127.0.0.1:5173",
+    "http://127.0.0.1:3000",
+]
+
+env_origins = os.getenv("CORS_ORIGINS", "")
+custom_origins = [
+    orig.strip().rstrip("/")
+    for orig in env_origins.split(",")
+    if orig.strip()
+]
+
+all_allowed_origins = list(dict.fromkeys(default_origins + custom_origins))
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "https://trinetra-final.vercel.app/"
-        "https://trinetra-gilt.vercel.app",
-        "http://localhost:5173",
-        "http://127.0.0.1:5173",
-    ],
+    allow_origins=all_allowed_origins,
+    # Matches any Vercel domain (production, preview branch, staging)
+    allow_origin_regex=r"^https:\/\/.*\.vercel\.app$",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+# ============================================================
+# Root / Index Endpoint
+# ============================================================
+
+@app.get("/")
+@app.head("/")
+def root():
+    return {
+        "status": "online",
+        "service": "TRINETRA Sonar Intelligence API",
+        "version": "1.0.0",
+        "docs": "/docs",
+        "health": "/health",
+    }
 
 
 # ============================================================
@@ -53,6 +85,7 @@ anomaly_engine = TrinetraAnomalyEngine()
 # ============================================================
 
 @app.get("/health")
+@app.head("/health")
 def health():
     return {
         "status": "ok",
